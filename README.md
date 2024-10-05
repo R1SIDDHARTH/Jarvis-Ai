@@ -67,7 +67,7 @@ The project has been compressed using **7-Zip** into parts, each of 10 MB size, 
    - 7-Zip will automatically combine all parts and extract the files.
 
 4. **Move the Extracted Files**: After extracting the files:
-   - **Cut and paste** the extracted `ai` folder into the **Virtual Keyboard** project folder, the one that contains the `.main` file. This ensures that the virtual keyboard can correctly access the extracted files and run smoothly.
+   - **Cut and paste** the extracted `ai` folder into the **Jarvis-Ai** project folder, the one that contains the `.main` file. This ensures that the Jarvis-Ai can correctly access the extracted files and run smoothly.
 
 ## Note
 Make sure your microphone is properly configured and the device ID is correctly set when starting the program to ensure optimal performance.
